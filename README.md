@@ -5,3 +5,8 @@
 * https://replit.com/
 * https://www.derivative-calculator.net/
 * https://www.moodle.udesc.br/course/view.php?id=38276
+
+## Plano B:
+
+Compilador de C:
+* https://www.onlinegdb.com/online_c_compiler
