@@ -1,0 +1,24 @@
+Operações da biblioteca math.h
+
+* sqrt(): raiz quadrada 
+* pow(): potenciação
+* exp(): potenciação com base natural (e^x)
+* sin(): seno
+* cos(): cosseno
+* cosh(): cosseno hiperbolico
+* sinh(): seno hiperbolico
+* tan(): tangente
+* log(): logaritmo natural
+
+Operações da biblioteca math do python
+
+* sqrt(): raiz quadrada
+* pow(): potenciação
+* exp(): potenciação com base natural (e^x)
+* sin(): seno()
+* cos(): cos()
+* cosh(): cosseno hiperbolico
+* sinh(): seno hiperbolico
+* tan(): tangente
+* log(): logaritmo natural
+
